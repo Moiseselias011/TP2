@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 package primerproyecto.trabajopractico2;;
+=======
+package primerproyecto.trabajopractico2;
+>>>>>>> a1be3b3ab50ba7fbe5b713f13df07e7b6d3dce81
 
 public class OrniAzul extends Castor {
 
