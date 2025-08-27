@@ -1,4 +1,4 @@
-
+package primerproyecto.trabajopractico2;
 
 import java.util.Scanner;
 
