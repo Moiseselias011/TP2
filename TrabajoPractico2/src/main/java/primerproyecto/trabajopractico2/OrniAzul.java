@@ -1,4 +1,4 @@
-
+package primerproyecto.trabajopractico2;
 
 public class OrniAzul extends Castor {
 
